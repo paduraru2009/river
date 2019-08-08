@@ -67,7 +67,8 @@ The modern way to debug and build projects from VS code:
   a. Install VS code using ~/installVsCode.sh script. 
   b. Open vs-code as administrator: sudo code --user-data-dir="~/.vscode-root"
   c. Install C++ , native debugging and cmake extensions
-  d. Open the folder of any solution you want to debug and use Cmake status bar to build/debug.
+  d. Open the folder of any solution you want to debug and use Cmake status bar to build/debug 
+  NOTE: For simpletracer use a GCC compiler in the Cmake interface toolbar
 ```
   
 Below is the old version of how to debug from VS code
